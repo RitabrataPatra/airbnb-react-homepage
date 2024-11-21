@@ -1,0 +1,46 @@
+.banner{
+    height : 50vh ;
+    position : relative;
+    background: url("https://intermetal.com/wp-content/uploads/2018/06/Hotel-Room-Banner.jpg") center center;
+    background-size: cover;
+}
+.banner_info{
+    background-color: black;
+    color: white;
+
+    padding-top: 6vh ;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    padding-bottom: 40px; 
+    width: 300px;
+    /* height: 100%; */
+}
+.banner__search{
+    display: flex;
+    flex-direction: column;
+}   
+.banner__searchButton{
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}
+.banner_info > button{
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit;
+    font-weight: 600;
+    margin-top: 20px;
+    /* padding: 10px; */
+    border: none;
+    cursor: pointer;
+}
+.banner_info > button:hover{
+    background-color: white;
+    color: #ff7779;
+}
+
+.banner_info > h5{
+    margin-top: 10px;
+}
