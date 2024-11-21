@@ -24,7 +24,7 @@ This is a **React** clone of the **Airbnb Home Page**. The goal of this project 
 
 You can view the live demo of the Airbnb Home Page Clone here:
 
-[Live Demo](https://your-link.com)
+[Live Demo](https://airbnb-react-homepage.vercel.app/)
 
 ## 🎯 Getting Started
 
